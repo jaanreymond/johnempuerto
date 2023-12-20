@@ -11,6 +11,7 @@
     "autoprefixer": "^10.0.3",
     "gsap": "^3.5.1",
     "next": "^10.0.0",
+    "package-lock": "^1.0.5",
     "postcss": "^8.1.10",
     "react": "16.13.1",
     "react-anchor-link-smooth-scroll": "^1.0.12",
@@ -37,4 +38,3 @@
   "homepage": "https://github.com/jaanreymond/johnempuerto-nextjs.git#readme",
   "description": ""
 }
-
