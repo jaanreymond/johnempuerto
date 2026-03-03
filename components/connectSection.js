@@ -96,26 +96,26 @@ const ConnectSection = (props) => {
          </div>
          <footer className='container pb-10 text-gray-600 flex flex-col-reverse md:flex-row justify-between items-center lg:items-center'>
             <p className='hover:text-greyText ease-in-out duration-300 mb-5 md:mb-0'>
-               &copy; 2020 John Empuerto
+               &copy; 2026 John Empuerto
 					</p>
 
             <div className='flex flex-row text-white mb-10 md:mb-0'>
                <a
-                  href='https://www.behance.net/johnempuerto'
+                  href='https://www.behance.net/janreymond'
                   target='_blank'
                   className='text-xl mx-1 p-4 bg-primaryGrey hover:bg-primaryBrand ease-in-out duration-300'
                >
                   <FaBehance />
                </a>
                <a
-                  href='https://github.com/jaanreymond'
+                  href='https://github.com/jaanreymond/'
                   target='_blank'
                   className='text-xl mx-1 p-4 bg-primaryGrey hover:bg-primaryBrand ease-in-out duration-300'
                >
                   <FaGithub />
                </a>
                <a
-                  href='https://www.linkedin.com/in/john-raymond-empuerto-718b941a3/'
+                  href='https://www.linkedin.com/in/jempuerto/'
                   target='_blank'
                   className='text-xl mx-1 p-4 bg-primaryGrey hover:bg-primaryBrand ease-in-out duration-300'
                >

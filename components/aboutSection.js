@@ -134,7 +134,7 @@ const AboutSection = (props) => {
                   </div>
 
                   <p className='aboutme-content text-greyText font-normal text-base mt-6 leading-loose'>
-                     I'm John Raymond Empuerto, 18 years old and from the Philippines. <br></br>Digital design has been an interest of mine for many years, and I work with anything from logo design to UI design and front-end development. <br></br>All the skills and tools I use, are self-taught over many years of practice and expanding my horizons.
+                     I'm John Raymond Empuerto, 23 years old and from the Philippines. <br></br>Digital design has been an interest of mine for many years, and I work with anything from logo design to UI design and front-end development. <br></br>All the skills and tools I use, are self-taught over many years of practice and expanding my horizons.
                   </p>
 
                   <div id="skills" className='flex flex-row items-center mt-12'>
@@ -148,7 +148,7 @@ const AboutSection = (props) => {
                      Design: Figma, Photoshop, Illustrator, After Effects
                   </p>
                   <p className='skills-content text-greyText font-normal text-base mt-2 leading-loose'>
-                     Development: JavaScript, React, Next.js, HTML, CSS/SCSS, TailwindCSS, WordPress
+                     Development: JavaScript, React, Next.js, HTML, CSS/SCSS, WordPress, Shopify
                   </p>
 
                   <div className="about-cta">
