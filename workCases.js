@@ -101,7 +101,7 @@ export const workCases = [
 },
 
 //Choi Sports Center
-{
+{/*
   title: "Choi Sports Center",
   category: "Web Design & Booking System Development",
   description: "Choi Sports Center needed a modern website to showcase their pickleball courts and simplify online reservations. I developed a clean, mobile-first website integrated with a booking system for seamless court scheduling. The design focuses on user experience, clear pricing presentation, and strong call-to-actions to increase bookings and customer engagement.",
@@ -111,7 +111,7 @@ export const workCases = [
   caseImageAlt: "choi sports center pickleball website by John Empuerto",
   caseLink: "https://choisportscenter.com/",
   caseLinkText: "Visit site",
-},
+*/},
 
 
 //M&D Locksmith
